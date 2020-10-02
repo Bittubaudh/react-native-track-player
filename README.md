@@ -90,7 +90,7 @@ If you want to get started with this module, check the [API](https://react-nativ
 If you want detailed information about the API, check the [Documentation](https://react-native-kit.github.io/react-native-track-player/documentation/).
 
 ## Example App
-You can look at our example project [here](https://github.com/react-native-kit/react-native-track-player/tree/dev/example).
+You can look at our example project for deeper snse [here](https://github.com/react-native-kit/react-native-track-player/tree/dev/example).
 
 ### iOS Screenshots
 <img src="example/screenshots/ios-app.png" width="300" /> <img src="example/screenshots/ios-lockscreen.png" width="300" />
